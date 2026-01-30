@@ -1,0 +1,6 @@
+customer_id,name,email,country,created_at
+1,Ana Perez,ANA.PEREZ@MAIL.COM,CO,2025-10-01
+2,Carlos Gomez,carlos.gomez@mail.com,CO,2025-10-03
+3,Luisa Torres,luisa.torres@mail.com,MX,2025-11-15
+4,Mario Ruiz,mario.ruiz@mail.com,CL,2025-11-20
+5,Sofia Diaz,sofia.diaz@mail.com,CO,2025-12-01
